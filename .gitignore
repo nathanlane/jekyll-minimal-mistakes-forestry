@@ -6,3 +6,6 @@ _site/
 
 # Ruby
 vendor/bundle
+
+# macOS
+.DS_Store
