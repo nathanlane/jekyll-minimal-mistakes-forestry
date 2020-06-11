@@ -30,3 +30,5 @@ fields:
 - type: boolean
   name: toc
   label: toc
+pages:
+- _pages/about.md
